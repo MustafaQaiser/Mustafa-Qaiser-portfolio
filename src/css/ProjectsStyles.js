@@ -1,12 +1,15 @@
 import styled from 'styled-components';
 
 export const ProjectsContainer = styled.div`
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  font-family: Arial;
 
-display:flex;
-justify-content: space-between;
-padding: 40px;
-font-family: Arial;
- 
+  @media (max-width: 768px) {
+    flex-direction: column;
+    align-items: center; /* Optional: Center items on smaller screens */
+  }
 
   div {
     margin-bottom: 20px;
