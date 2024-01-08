@@ -2,6 +2,7 @@
 import styled from 'styled-components';
 
 export const SkillsContainer = styled.div`
+padding: 40px;
   h2 {
     font-size: 28px;
     margin-bottom: 20px;

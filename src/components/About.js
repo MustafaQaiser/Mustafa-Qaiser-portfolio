@@ -7,7 +7,7 @@ const About = () => {
     <AboutContainer>
       <img src={myprofilepic} alt="Profile" />
       <div>
-        <h2>Mustafa Qiaser</h2>
+        <h2>Mustafa Qaiser</h2>
         <p>MERN Stack Developer</p>
         <p>Studied from Lahore Garrison University</p>
         <p>

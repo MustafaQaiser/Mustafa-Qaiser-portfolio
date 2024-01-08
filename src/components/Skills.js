@@ -21,7 +21,7 @@ const Skills = () => {
 
   return (
     <SkillsContainer>
-      <h2>Skills</h2>
+      <h2>Skills:</h2>
       <ul>
         {skillsList.map((skill, index) => (
           <li key={index}>{skill}</li>
