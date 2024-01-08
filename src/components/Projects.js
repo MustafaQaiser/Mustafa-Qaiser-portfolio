@@ -1,9 +1,7 @@
-// /src/components/Projects.js
 import React from 'react';
 import { ProjectsContainer } from '../css/ProjectsStyles';
 import ecommerce from '../assets/OIP.jpg'
 const Projects = () => {
-  // Add your projects with image URLs and descriptions
   const projectsList = [
     {
       title: 'E-Commerce Store',

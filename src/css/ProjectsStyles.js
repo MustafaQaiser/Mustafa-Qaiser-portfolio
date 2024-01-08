@@ -1,8 +1,8 @@
-// /src/styles/ProjectsStyles.js
 import styled from 'styled-components';
 
 export const ProjectsContainer = styled.div`
 padding: 40px;
+font-family: Arial;
   h2 {
     font-size: 28px;
     margin-bottom: 20px;

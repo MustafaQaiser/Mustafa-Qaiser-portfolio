@@ -1,4 +1,3 @@
-// /src/components/About.js
 import React from 'react';
 import { AboutContainer } from '../css/AboutStyles';
 import myprofilepic from '../assets/IMG_7378.jpg'

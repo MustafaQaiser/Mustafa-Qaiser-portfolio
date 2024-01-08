@@ -1,9 +1,8 @@
-// /src/styles/ExperienceStyles.js
 import styled from 'styled-components';
 
 export const ExperienceContainer = styled.div`
 padding: 40px;
-font-family: cursive;
+font-family: Arial;
   h2 {
     font-size: 28px;
     margin-bottom: 20px;
