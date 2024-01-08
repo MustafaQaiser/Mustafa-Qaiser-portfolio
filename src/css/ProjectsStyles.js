@@ -1,12 +1,12 @@
 import styled from 'styled-components';
 
 export const ProjectsContainer = styled.div`
+
+display:flex;
+justify-content: space-between;
 padding: 40px;
 font-family: Arial;
-  h2 {
-    font-size: 28px;
-    margin-bottom: 20px;
-  }
+ 
 
   div {
     margin-bottom: 20px;
