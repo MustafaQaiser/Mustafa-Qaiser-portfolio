@@ -2,19 +2,16 @@ import styled from 'styled-components';
 
 export const AboutContainer = styled.div`
   display: flex;
-  align-items: center;
+  flex-direction: column;
   padding: 40px;
+  align-items: center;
   font-family: Arial;
-
-  @media (max-width: 768px) {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
+text-align:center;
+ 
 
   img {
     border-radius: 50%;
-    margin-right: 20px;
+    
     width: 40%;
     max-width: 200px; /* Set a max-width for smaller screens */
     height: auto;

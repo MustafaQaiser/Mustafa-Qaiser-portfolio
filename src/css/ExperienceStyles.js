@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const ExperienceContainer = styled.div`
 padding: 40px;
 font-family: Arial;
+text-align:center;
   h2 {
     font-size: 28px;
     margin-bottom: 20px;

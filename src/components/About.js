@@ -4,6 +4,7 @@ import myprofilepic from '../assets/IMG_7378.jpg'
 const About = () => {
   return (
     <AboutContainer>
+      <h2>My Profile:</h2>
       <img src={myprofilepic} alt="Profile" />
       <div>
         <h2>Mustafa Qaiser</h2>
